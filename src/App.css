@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color:rgb(245, 220, 244);
+  width: 300px;
+  margin-left:900px;
+  margin-top:300px;
+
+}
+.filter-list h1{
+  position:relative;
+  color:purple;
+  margin:30px;
+}
+
+#typeDropdown{
+background-color:rgb(255, 192, 241);
+width:70px;
+position:relative;
+bottom: 25px;
+}
+
+.filter-list input{
+  width: 100px;
+  position:relative;
+  bottom: 0px;
+  background-color: rgb(255, 231, 253);
+}
