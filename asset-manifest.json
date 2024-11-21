@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cw08/static/css/main.944ab664.css",
-    "main.js": "/cw08/static/js/main.52ed955b.js",
-    "static/js/453.ed3810f9.chunk.js": "/cw08/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/cw08/index.html",
-    "main.944ab664.css.map": "/cw08/static/css/main.944ab664.css.map",
-    "main.52ed955b.js.map": "/cw08/static/js/main.52ed955b.js.map",
-    "453.ed3810f9.chunk.js.map": "/cw08/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Sadia-Ak/cw08.git/static/css/main.944ab664.css",
+    "main.js": "/Sadia-Ak/cw08.git/static/js/main.b6c8d15d.js",
+    "static/js/453.ed3810f9.chunk.js": "/Sadia-Ak/cw08.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Sadia-Ak/cw08.git/index.html",
+    "main.944ab664.css.map": "/Sadia-Ak/cw08.git/static/css/main.944ab664.css.map",
+    "main.b6c8d15d.js.map": "/Sadia-Ak/cw08.git/static/js/main.b6c8d15d.js.map",
+    "453.ed3810f9.chunk.js.map": "/Sadia-Ak/cw08.git/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.944ab664.css",
-    "static/js/main.52ed955b.js"
+    "static/js/main.b6c8d15d.js"
   ]
 }
